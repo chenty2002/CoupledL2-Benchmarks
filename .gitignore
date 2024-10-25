@@ -1,0 +1,6 @@
+Chisel/
+Template/
+jgproject/
+*.fst
+*.sh
+*.tcl
