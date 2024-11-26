@@ -1,6 +1,6 @@
 # CoupledL2 Errors Found by Model Checking
 
-## Deadlocks
+## Deadlock Freeness Property
 
 > 0508: CoupledL2_L2AsL1_TileLink_mshrCtl_0508_2L2_L3
 
@@ -18,7 +18,7 @@ Length 8050
 
 Length 124348/14994
 
-## Mutual Property
+## Mutual Exclusion Property
 
 > 0712: CoupledL2_L2AsL1_TileLink_directory_0712_2L2_tip-branch
 
