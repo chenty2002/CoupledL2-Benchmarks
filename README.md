@@ -23,3 +23,9 @@ Length 124348/14994
 > 0712: CoupledL2_L2AsL1_TileLink_directory_0712_2L2_tip-branch
 
 Length: 8587
+
+## Performance
+
+> 1213: CoupledL2_L2AsL1_TileLink_mshrCtl_performance_1213_2L3_L3
+
+Length: 621
